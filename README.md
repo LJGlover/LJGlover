@@ -4,7 +4,7 @@
 <!--
 **LJGlover/LJGlover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I spent the first half of my career in international education teaching students how to speak English and businesspeople how to do use English in their company. I was fortunate to travel to many places while doing this. However, five years ago I decided to give up after having achieved everything I set out to in that industry and I felt like a change. So I learned how to train dogs and spent a few years doing that. When the COVID situation happened I thought that was a good time to retrain and chose to follow my life-long passion of technology. My chosen area was Cloud Computing and am currently following the AWS re/Start programme as well as teaching myself Azure and a few other related things. I'm currently looking for my first Cloud position in the UK, Europe, or further afield.
+<I spent the first half of my career in international education teaching students how to speak English and businesspeople how to do use English in their company. I was fortunate to travel to many places while doing this. However, five years ago I decided to give up after having achieved everything I set out to in that industry and I felt like a change. So I learned how to train dogs and spent a few years doing that. When the COVID situation happened I thought that was a good time to retrain and chose to follow my life-long passion of technology. My chosen area was Cloud Computing and am currently following the AWS re/Start programme as well as teaching myself Azure and a few other related things. I'm currently looking for my first Cloud position in the UK, Europe, or further afield.>
 
 
 - 🔭 I’m currently working on getting Cloud certifications while looking for an entry-level Cloud role.
@@ -20,6 +20,6 @@ I spent the first half of my career in international education teaching students
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linux/linux-original.svg width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/slack/slack-original.svg width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/trello/trello-plain.svg width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linux/linux-original.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/slack/slack-original.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/trello/trello-plain.svg" width="50" height="50"/>
 
 ---
