@@ -1,11 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Leon Glover!
 
-I spent the first half of my career in international education teaching students how to speak English and businesspeople how to do use English in their professional and personal lives. I was fortunate to travel to many places around the world while doing this. However, in 2016 I decided to give up after having achieved everything I set out to in that industry and I felt like a change. When the COVID situation happened I thought that was a good time to retrain and chose to follow my life-long passion of technology. My chosen area was Cloud Computing and I completed the AWS re/Start programme and passed the AWS Certified Cloud Practitioner. Since then I have achieved qualifications in Azure and SQL as well as the AWS Solutions Architect Associate qualification and am always looking to learn new technolgies and improve my knowledge and ability in technologies I already know. I'm currently pursuing my interests in coding with a view to finding work creating apps for the Apple ecosystem.
+I spent the first half of my career in international education teaching students how to speak English and businesspeople how to do use English in their professional and personal lives. I was fortunate to travel to many places around the world while doing this. However, in 2016 I decided to give up after having achieved everything I set out to in that industry and I felt like a change. When the COVID situation happened I thought that was a good time to retrain and chose to follow my life-long passion of technology. My chosen area was Cloud Computing and I completed the AWS re/Start programme and passed the AWS Certified Cloud Practitioner. Since then I have achieved qualifications in Azure and SQL as well as the AWS Solutions Architect Associate qualification and am always looking to learn new technolgies and improve my knowledge and ability in technologies I already know. I'm currently pursuing my interests in coding with a view to finding work creating apps for the Apple ecosystem. I'm also passionate about AI and am currently mixing my love of coding and AI by diving into the vibe coding revolution!
 
 ---
 
-- 🔭 I’m currently working on Swift coding.
-- 🌱 I’m currently learning Swift and data engineering/analysis.
+- 🔭 I’m currently working on vibe coding.
+- 🌱 I’m currently learning Swift and data structures.
 - 🤔 I’m looking for help with learning Swift programming.
 - 💬 Ask me about anything you'd like to know, reach out if you know of any entry-level roles available, and feel free to message me if you're open to chatting about life in tech!
 - 📫 How to reach me: message me here on GitHub and I'll get back to you ASAP.
